@@ -41,7 +41,7 @@ const SlickSlider = ({ home, detail }) => {
                 />
                 <input
                   type="text"
-                  className="w-full h-11 max-sm:h-8 rounded-2xl pl-11 text-lg outline-none placeholder:text-orange-600 placeholder:font-medium max-sm:text-xs"
+                  className="w-full h-11 max-sm:h-8 rounded-xl pl-11 text-lg outline-none placeholder:text-orange-600 placeholder:font-medium max-sm:text-xs"
                   placeholder="Vui lòng nhập từ khóa sản phẩm"
                 />
               </div>
@@ -94,7 +94,7 @@ const SlickSlider = ({ home, detail }) => {
         </div>
       ) : (
        <>
-       {detail ?  <div className="slider-container">
+       {detail ?  <div className="slider-container bg-white">
           <Slider {...settings} className="w-full ">
             <div className="w-full h-[560px]">
               <img

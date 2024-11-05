@@ -18,7 +18,7 @@ const Detail_product = () => {
 
 
   return (
-    <div className="w-full  h-screen pb-20 scrollbar-hide overflow-y-scroll text-gray-500 shadow-xl bg-gray-50 px-4 flex flex-col gap-8">
+    <div className="w-full  h-screen pb-20 py-2 scrollbar-hide overflow-y-scroll text-gray-500 shadow-xl bg-gray-50 px-4 flex flex-col gap-2">
       <div className="flex items-center">
         <div className="flex items-center justify-between flex-4 ">
           <KeyboardArrowLeftIcon
@@ -47,20 +47,20 @@ const Detail_product = () => {
             )}
           </div>
         </div>
-        <div className="w-full flex items-center relative flex-8">
+        <div className="w-full flex items-center relative flex-8 ">
           <SearchOutlinedIcon
             className="absolute"
-
             sx={{
               fontSize  :  `${isMobile ? "20px" : "30px"}`,
               color: "gray",
               marginLeft: "7px",
               cursor: "pointer",
             }}
+            
           />
           <input
             type="text"
-            className="w-full h-11 rounded-lg pl-11 max-sm:pl-8 max-sm:text-sm text-lg outline-none placeholder:text-gray-500 placeholder:font-medium "
+            className="w-full h-11 rounded-xl max-sm:h-8 pl-11 max-sm:pl-8 max-sm:text-sm text-lg outline-none placeholder:text-gray-500 placeholder:font-medium "
             placeholder="Tìm kiếm sản phẩm"
           />
         </div>
