@@ -69,6 +69,158 @@ const Card_Product = ({ profile, hidden }) => {
           </div>
         </div>
         </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test}
+            alt="product_test"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+              Grocery & Gourmet Food
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $41.89
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test1}
+            alt="product_test1"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+       
+              COMFIER Shiatsu Neck Back Massager with Heat, 2D ro 3D Kneading
+              Massage Chair Pad, Adjustable Compression Seat Massager for Full
+              Body Relaxation, Gifts for Women Men,Dark Gray
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $190.32
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test}
+            alt="product_test"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+              Grocery & Gourmet Food
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $41.89
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test1}
+            alt="product_test1"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+       
+              COMFIER Shiatsu Neck Back Massager with Heat, 2D ro 3D Kneading
+              Massage Chair Pad, Adjustable Compression Seat Massager for Full
+              Body Relaxation, Gifts for Women Men,Dark Gray
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $190.32
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test}
+            alt="product_test"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+              Grocery & Gourmet Food
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $41.89
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test1}
+            alt="product_test1"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+       
+              COMFIER Shiatsu Neck Back Massager with Heat, 2D ro 3D Kneading
+              Massage Chair Pad, Adjustable Compression Seat Massager for Full
+              Body Relaxation, Gifts for Women Men,Dark Gray
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $190.32
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test}
+            alt="product_test"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+              Grocery & Gourmet Food
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $41.89
+            </span>
+          </div>
+        </div>
+        </Link>
+        <Link to="/detail-product">
+        <div className="w-full h-full bg-white cursor-pointer">
+          <img
+            src={product_test1}
+            alt="product_test1"
+            className="h-[256px] max-sm:h-[180px] w-full object-cover"
+          />
+
+          <div className="flex flex-col gap-2 px-2">
+            <span className="line-clamp-2 break-all text-ellipsis font-medium text-[18px] max-sm:text-xs max-sm:font-medium">
+       
+              COMFIER Shiatsu Neck Back Massager with Heat, 2D ro 3D Kneading
+              Massage Chair Pad, Adjustable Compression Seat Massager for Full
+              Body Relaxation, Gifts for Women Men,Dark Gray
+            </span>
+            <span className="text-[#ed5435] font-semibold text-2xl max-sm:text-lg max-sm:font-semibold">
+              $190.32
+            </span>
+          </div>
+        </div>
+        </Link>
         
        
       </div>
