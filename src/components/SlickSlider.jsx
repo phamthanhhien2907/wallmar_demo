@@ -96,21 +96,21 @@ const SlickSlider = ({ home, detail }) => {
        <>
        {detail ?  <div className="slider-container bg-white">
           <Slider {...settings} className="w-full ">
-            <div className="w-full h-[560px]">
+            <div className="w-full">
               <img
                 src={product_demo}
                 alt="banner"
                 className="w-full h-full object-contain"
               />
             </div>
-            <div className="w-full h-[560px]">
+            <div className="w-full">
               <img
                 src={product_demo}
                 alt="banner"
                 className="w-full h-full object-contain"
               />
             </div>
-            <div className="w-full h-[560px]">
+            <div className="w-full">
               <img
                 src={product_demo}
                 alt="banner"
